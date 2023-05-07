@@ -1,5 +1,5 @@
 # Instacart_Analysis--Python
-Use of Python to analyze data for evaluating marketing campaigns.    A CareerFoundry Data Analyst project. 
+Use of Python to analyze data for evaluating marketing campaigns.    A CareerFoundry Data Analysis project. 
 ## <img width="184" alt="image" src="https://user-images.githubusercontent.com/132319606/236653238-110a186a-7068-49e2-8ab0-cf2db4f8729a.png">
 
 ## Objective
